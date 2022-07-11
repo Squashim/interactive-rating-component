@@ -25,14 +25,14 @@ body{
     height: auto;
     min-height: 350px;
     border-radius: 30px;
-    background: radial-gradient(at top, hsl(217, 18%, 17%), hsl(215, 30%, 11%));
+    background: #1e242e;
     display: flex;
     flex-direction: column;
     justify-content: space-evenly;
     padding: 35px;
     margin: 0 20px;
 }
-.star-container{
+.icon-container{
     max-width: 100%;
     width: 50px;
     height: 50px;
@@ -144,7 +144,7 @@ body{
 footer{
     margin-top: 2rem;
 }
-.attribution { font-size: 11px; text-align: center; }
+.attribution { color: var(--l_grey); font-size: 11px; text-align: center; }
 .attribution a { color: var(--m_grey); } 
 
 @media screen and (max-width: 395px){
