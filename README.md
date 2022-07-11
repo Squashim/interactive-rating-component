@@ -2,11 +2,11 @@
 <img src="https://github.com/Squashim/interactive-rating-compontent/blob/main/images/preview.jpg">
 <div align="center">
   <h2>
-    <a href="https://squashim.github.io/interactive-rating-component/" color="white">
+    <a target="_blank" href="https://squashim.github.io/interactive-rating-component/" color="white">
       Live
     </a>
     <span> | </span>
-    <a href="https://www.frontendmentor.io/solutions/interactive-rating-component-with-js-A-dV0RnKEe">
+    <a target="_blank" href="https://www.frontendmentor.io/solutions/interactive-rating-component-with-js-A-dV0RnKEe">
       Solution
     </a>
   </h2>
