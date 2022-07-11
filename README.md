@@ -2,7 +2,7 @@
 <img src="https://github.com/Squashim/interactive-rating-compontent/blob/main/images/preview.jpg">
 <div align="center">
   <h2>
-    <a href="https://squashim.github.io/interactive-rating-compontent/" color="white">
+    <a href="https://squashim.github.io/interactive-rating-component/" color="white">
       Live
     </a>
     <span> | </span>
