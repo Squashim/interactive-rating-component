@@ -20,4 +20,4 @@
 <br>
 4. See hover states for all interactive elements on the page.
 <br>
-<h3>Thanks to anoyone who provide their feedback!</h3>
+<h3 align="center">Thanks to anoyone who provide their feedback!</h3>
